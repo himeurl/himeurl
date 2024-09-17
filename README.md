@@ -1,2 +1,2 @@
-oie, estou estudando javascript :P
+oie, estou estudando html, css e javascript :P
 perfil para estudos.
